@@ -1,0 +1,17 @@
+{
+    "name": "integration/mp",
+    "description": "Integration with API Mercado Pago at PHP",
+    "authors": [
+        {
+            "name": "katelucena-meli",
+            "email": "kate.lucena@mercadolivre.com"
+        }
+    ],
+    "require": {
+        "mercadopago/dx-php": "2.4.2"
+    },
+    "config": {
+
+        "platform-check": false
+    }
+}
